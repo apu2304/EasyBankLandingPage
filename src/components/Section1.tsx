@@ -15,8 +15,8 @@ const Section1 = () => {
         <button className="bg-linear-to-l to-[var(--emerald)] hover:opacity-70 transition-all duration-300
       from-[var(--verdigris)] text-white px-4 py-2 rounded-full ">Request Invite</button>
       </div>
-      <div className="bg-[url('assets/images/bg-intro-mobile.svg')] 
-      md:bg-[url('assets/images/bg-intro-desktop.svg')] 
+      <div className="bg-[url('/assets/images/bg-intro-mobile.svg')] 
+      md:bg-[url('/assets/images/bg-intro-desktop.svg')] 
       bg-cover bg-no-repeat flex justify-center items-center">
         <img src="assets/images/image-mockups.png" alt="" className="
         w-[17rem] md:w-[35rem]"/>
