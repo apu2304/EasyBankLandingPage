@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --seasalt: #FAFAFAff;
+  --emerald: #2ECC7Fff;
+  --verdigris: #2EBCB9ff;
+  --antiflash-white: #F4F5F7ff;
+  --white: #FEFEFEff;
+  --cadet-gray: #A3A3ABff;
+  --space-cadet: #2D314Eff;
+  --delft-blue: #3F4055ff;
+  --bodyFont: 'Public Sans', sans-serif;
+}
+*{
+  font-family: "Public Sans", sans-serif;
+}
